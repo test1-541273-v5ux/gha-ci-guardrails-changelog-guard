@@ -1,5 +1,5 @@
 name: CI Guardrails - Changelog Guard
-description: CI Guardrails - Changelog Guard handles release note hygiene with pull_request synchronize and delivers missing changelog warning as pr comment.
+description: Ensures changelog updates in CI workflows.
 author: YourCompany
 branding:
   icon: play

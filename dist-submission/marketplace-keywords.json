@@ -1,0 +1,98 @@
+{
+  "primaryKeywords": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails"
+  ],
+  "secondaryKeywords": [
+    "pull-tool",
+    "comment-tool",
+    "release",
+    "synchronize-tool",
+    "request-tool",
+    "guardrails-tool",
+    "release-tool",
+    "request",
+    "workflow",
+    "handles"
+  ],
+  "tags": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails",
+    "pull-tool",
+    "comment-tool",
+    "release",
+    "synchronize-tool",
+    "request-tool",
+    "guardrails-tool",
+    "release-tool",
+    "request",
+    "workflow",
+    "handles",
+    "delivers",
+    "changelog",
+    "with"
+  ],
+  "synonyms": {
+    "request": [
+      "request-ops",
+      "request-workflow",
+      "request-tool"
+    ],
+    "automation": [
+      "orchestration",
+      "autopilot",
+      "streamlining"
+    ],
+    "workflow": [
+      "pipeline",
+      "runbook",
+      "process"
+    ],
+    "handles": [
+      "handles-ops",
+      "handles-workflow",
+      "handles-tool"
+    ],
+    "delivers": [
+      "delivers-ops",
+      "delivers-workflow",
+      "delivers-tool"
+    ],
+    "changelog": [
+      "changelog-ops",
+      "changelog-workflow",
+      "changelog-tool"
+    ],
+    "with": [
+      "with-ops",
+      "with-workflow",
+      "with-tool"
+    ],
+    "guardrails": [
+      "guardrails-ops",
+      "guardrails-workflow",
+      "guardrails-tool"
+    ],
+    "checks": [
+      "guards",
+      "validators",
+      "gates"
+    ]
+  }
+}

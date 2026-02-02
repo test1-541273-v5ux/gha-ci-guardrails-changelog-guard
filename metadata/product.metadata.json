@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-02-02T20:39:40.976Z",
+  "product": {
+    "slug": "ci-guardrails-changelog-guard",
+    "name": "CI Guardrails - Changelog Guard",
+    "description": "CI Guardrails - Changelog Guard handles release note hygiene with pull_request synchronize and delivers missing changelog warning as pr comment.",
+    "version": "0.1.2",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "github_action",
+    "productType": "automation"
+  },
+  "modules": [
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "github",
+      "actions",
+      "ci",
+      "policy",
+      "lint",
+      "checks",
+      "automation",
+      "devops",
+      "qa",
+      "guardrails",
+      "changelog",
+      "guard",
+      "release",
+      "note",
+      "hygiene",
+      "pull",
+      "request",
+      "synchronize",
+      "missing",
+      "warning"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "github_action",
+    "displayName": "GitHub Marketplace (Action)",
+    "kind": "action"
+  }
+}

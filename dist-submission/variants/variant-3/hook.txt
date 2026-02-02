@@ -1,0 +1,2 @@
+CI Guardrails - Changelog Guard handles release note hygiene with pullrequest synchronize and delivers missing changelog warning as pr co..…
+Designed for teams that publish at scale. Focus: Autopilot.

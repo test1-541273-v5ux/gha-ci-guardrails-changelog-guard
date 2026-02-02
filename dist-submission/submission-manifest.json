@@ -1,0 +1,32 @@
+{
+  "platformId": "github_action",
+  "productSlug": "ci-guardrails-changelog-guard",
+  "version": "0.1.2",
+  "files": {
+    "artifactZip": "artifact.zip",
+    "listing": "marketplace-listing.md",
+    "title": "marketplace-title.txt",
+    "short": "marketplace-short.txt",
+    "tags": "marketplace-tags.json",
+    "keywords": "marketplace-keywords.json",
+    "faq": "marketplace-faq.md",
+    "securityPrivacy": "security-privacy.md",
+    "checklist": "packaging-checklist.md",
+    "releaseNotes": "release-notes.md"
+  },
+  "buildCommands": [
+    "npm install",
+    "npm run build",
+    "npm test"
+  ],
+  "submissionSteps": [
+    "Review the bundle at /Users/hleb/Фабрика фабрик/generated/p1-gh/github_action-ci-guardrails/ci-guardrails-changelog-guard/dist-submission.",
+    "Upload artifact.zip.",
+    "Fill listing fields using marketplace-title.txt, marketplace-short.txt, marketplace-tags.json, marketplace-keywords.json, marketplace-faq.md, and marketplace-listing.md.",
+    "Attach packaging-checklist.md and security-privacy.md.",
+    "Attach release-notes.md and confirm version/changelog consistency.",
+    "Adapter note: This template uses Node20 runtime with prebuilt dist/index.js.",
+    "Adapter note: Run npm run build before each release commit.",
+    "Submit in marketplace sandbox and validate before production publish."
+  ]
+}

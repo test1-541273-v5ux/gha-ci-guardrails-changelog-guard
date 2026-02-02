@@ -1,0 +1,16 @@
+{
+  "name": "ci-guardrails-changelog-guard",
+  "version": "0.1.2",
+  "private": true,
+  "description": "CI Guardrails - Changelog Guard handles release note hygiene with pull_request synchronize and delivers missing changelog warning as pr comment.",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "node --test",
+    "package": "bash ./scripts/package.sh"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/node": "^22.10.2"
+  }
+}

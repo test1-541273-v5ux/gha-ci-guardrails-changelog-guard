@@ -1,0 +1,14 @@
+name: CI Guardrails - Changelog Guard
+description: CI Guardrails - Changelog Guard handles release note hygiene with pull_request synchronize and delivers missing changelog warning as pr comment.
+author: YourCompany
+branding:
+  icon: play
+  color: blue
+inputs:
+  message:
+    description: Optional message to print
+    required: false
+    default: Hello from CI Guardrails - Changelog Guard
+runs:
+  using: node20
+  main: dist/index.js

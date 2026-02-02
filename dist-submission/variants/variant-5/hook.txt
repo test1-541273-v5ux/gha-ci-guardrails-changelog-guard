@@ -1,0 +1,2 @@
+CI Guardrails - Changelog Guard handles release note hygiene with pullrequest synchronize and delivers missing changelog warning as pr co..…
+Built for manual submission ops with deterministic outputs. Focus: Devops Tool.
